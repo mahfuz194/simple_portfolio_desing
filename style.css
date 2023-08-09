@@ -28,6 +28,15 @@ a{
     color: black;
 
 }
+.mydiv{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
 
 main{
     margin: 0 auto;
